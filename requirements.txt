@@ -1,0 +1,10 @@
+flask==3.0.0
+scikit-learn==1.4.2
+flask_pymongo==2.3.0
+numpy==1.24
+pandas==2.0.3
+joblib==1.4.2
+flask_cors==1.4.2
+difflib
+-e .
+
